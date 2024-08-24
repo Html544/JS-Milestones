@@ -1,0 +1,27 @@
+body{
+ font-family: Arial, sans-serif;
+ background-color: #fce4ec;
+ margin: 0;
+ padding: 0;
+ text-align: center;
+ color: #333;
+}
+ h1, h3 {
+  color: #E91E63;
+ }
+ .container {
+  margin: 20px;
+ }
+ .alert-box {
+ background-color: #f8bbd0;
+ border: 1px solid #f48fb1;
+ border-radius: 5px;
+ padding: 10px;
+ display: inline-block;
+ }
+  .section {
+   margin-bottom: 20px;
+   padding: 10px;
+   background-color: #fff;
+   border: 1px solid #ddd;
+   }
